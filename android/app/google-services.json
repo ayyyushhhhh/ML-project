@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "638986800427",
+    "project_id": "mlproject-bca64",
+    "storage_bucket": "mlproject-bca64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638986800427:android:f3a3c0359e19cfc520096e",
+        "android_client_info": {
+          "package_name": "com.wissurge.mlproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638986800427-8rt6acaq2qvc3a5q3u4ujtr7vqmfaulb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wissurge.mlproject",
+            "certificate_hash": "e4dbcf2a0ebb17d136ec063213c3fe897495576f"
+          }
+        },
+        {
+          "client_id": "638986800427-1m59bumpr7b1tk94n0qtqivaic43rpr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFTPHza5KejtZABEp-k3QWhBMEJzjWvPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638986800427-1m59bumpr7b1tk94n0qtqivaic43rpr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
